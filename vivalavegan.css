@@ -49,7 +49,7 @@ a{
 }
 
 p{
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 
 .container{
@@ -321,6 +321,7 @@ header{
 .restaurant-description p{
     line-height: 1.6;
     margin-bottom: 2.4rem;
+    font-size: 3rem;
 }
 
 .body-btn{
