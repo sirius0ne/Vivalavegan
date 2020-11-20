@@ -246,11 +246,11 @@ header{
     animation-delay: .7s;
 }
 
-.single-animation{
+/* .single-animation{
     opacity: 0;
     animation: fadeDown .5s forwards;
     animation-delay: 1.5s;
-}
+} */
 
 .headline-description h5{
     color: #fff;
@@ -272,7 +272,7 @@ header{
 .cta-btn{
     font-size: 1.1rem;
     background-color: #fff;
-    padding: .9rem 1.8rem;
+    padding: 1.2rem 1.8rem;
     color: var(--body-font-color);
     border-radius: .4rem;
     transition: background-color .5s;
