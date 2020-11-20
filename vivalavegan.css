@@ -49,7 +49,7 @@ a{
 }
 
 p{
-    font-size: 1.6rem;
+    font-size: 2.5rem;
 }
 
 .container{
@@ -367,11 +367,10 @@ header{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 1.5rem;
-    border-radius: 5px;
 }
 
 .discover-our-story .restaurant-description{
-    padding-top: 3rem;
+    padding-top: 4rem;
     margin-bottom: 0;
 }
 
